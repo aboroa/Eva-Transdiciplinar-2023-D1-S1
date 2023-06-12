@@ -16,7 +16,7 @@ BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 
 # Definir la pantalla
-size = (700, 200)
+size = (1800, 200)
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Movimiento Rectilíneo Uniforme Acelerado")
 
