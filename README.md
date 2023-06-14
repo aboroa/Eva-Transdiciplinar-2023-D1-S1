@@ -79,6 +79,8 @@ para  este codigo se utilizo las herramientas de tkinter , esta nos ayuda a crea
   
   c. Guía de uso (Hacer uso de imágenes o un video tutorial para su uso)
   
+  https://youtu.be/21EGmrJNaHk
+  
   d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno físico
     desarrollado.
     
