@@ -46,6 +46,7 @@ Obtenga el valor de la variable desconocida. Cuando la ecuación se simplifica, 
   
 4. Programación
   a. Descripción de las herramientas utilizadas
+para  este codigo se utilizo las herramientas de tkinter , esta nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario . en conjunto con esta usamos matlolib esta nos ayuda a integrar un grafio que nos muestre datos analizados 
   
   b. Guía de instalación
   
