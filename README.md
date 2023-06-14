@@ -4,7 +4,9 @@
                     INFO 1120 - FIS 1102
                     
 2. Descripción: Archivos del grupo D1-S1 de la Evaluacion Interdiciplinar del curso de Fisica
-se nos presento una evento a simular en el cual tuvimos crear un programa que nos permita calcular , graficar y  simular el movimiento uniforme rectilinio acelerado 
+Este proyecto crea un programa que simula líneas rectas aceleradas. Verifique el programa, verifique la operación y compare los resultados con la fórmula conocida. En resumen, este proyecto pudo aprender habilidades técnicas y de análisis simulando fenómenos físicos a través de la programación.
+
+
 4. Evento físico a simular: Movimiento rectilineo uniforme acelerado 
 
 
@@ -38,7 +40,7 @@ Obtenga el valor de la variable desconocida. Cuando la ecuación se simplifica, 
 
 
   
-  d. Aplicaciones
+  d. Aplicaciones ????????
   
   
   
@@ -46,9 +48,10 @@ Obtenga el valor de la variable desconocida. Cuando la ecuación se simplifica, 
   
 4. Programación
   a. Descripción de las herramientas utilizadas
-para  este codigo se utilizo las herramientas de tkinter , esta nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario . en conjunto con esta usamos matlolib esta nos ayuda a integrar un grafio que nos muestre datos analizados 
+para  este codigo se utilizo las herramientas de tkinter , esta nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario . en conjunto con esta usamos matlolib esta nos ayuda a integrar un grafio que nos muestre datos ingresados y utilzados en la aplicacion  
   
   b. Guía de instalación
+  
   
   c. Guía de uso (Hacer uso de imágenes o un video tutorial para su uso)
   
@@ -61,3 +64,17 @@ para  este codigo se utilizo las herramientas de tkinter , esta nos ayuda a crea
     
     
 5. Conclusiones
+ El código proporcionado fue una implementación de una tarjeta inteligente 2D con robots.
+
+el objeto se mueve  a través del mapa y pudieron interactuar con estos mosaicos para recopilar recursos.
+
+El código definió las estructuras de datos necesarias  y los estilos de tarjeta. También contenía funciones para inicializar la tarjeta, pintar el mapa en la pantalla, mover los robots y actualizar la visualización.
+
+En resumen, el código era un fragmento de un proyecto 2D -Smart -map con robots, pero tuvo que trabajar más trabajo.
+
+
+
+
+
+ 
+   
