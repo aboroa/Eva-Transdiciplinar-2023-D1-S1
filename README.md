@@ -40,9 +40,33 @@ Obtenga el valor de la variable desconocida. Cuando la ecuación se simplifica, 
 
 
   
-  d. Aplicaciones ????????
+  d. Aplicaciones
+ 
   
-  
+  El movimiento rectilinio  acelerado tenía aplicaciones cotidianas en nuestras vidas.
+
+automobiles Y TRANSPORTE: se usó para acelerar y detener los vehículos de forma gradual y segura.
+
+Atracciones de parques de entretenimiento: se usó en las montañas rusas y otras atracciones para proporcionar emociones a los visitantes.
+
+Ejercicios deportivos y físicos: se usó en problemas y disparos para aumentar la velocidad y el rendimiento.
+
+Estas son solo algunas de las aplicaciones pasadas de movimiento sencillo acelerado en nuestra vida diaria.
+El movimiento cuadrado acelerado se usa ampliamente en varios campos científicos.
+
+Física: El estudio de los movimientos acelerados es muy básico en física para comprender fenómenos como la caída libre, las rutas de proyectiles y la aceleración de partículas en el campo magnético.
+
+Técnicas: en el diseño y análisis de la estructura y la maquinaria, se consideran movimientos acelerados para determinar la resistencia y el comportamiento del material en condiciones de aceleración.
+
+Astronomía: el camino de los objetos: la Selesal, como los planetas y los cometas, se modela considerando el movimiento acelerado bajo la influencia de la gravedad.
+
+Biología: en biomecánica y cinética humana, los movimientos acelerados se utilizan para analizar el desfile, los movimientos articulares y las fortalezas aplicadas en diferentes actividades físicas.
+
+Estos son solo algunos ejemplos del amplio espectro de aplicación propiedad de un movimiento cuadrado que se acelera en la ciencia.
+
+
+
+
   
   
   
