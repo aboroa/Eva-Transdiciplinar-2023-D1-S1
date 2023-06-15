@@ -1,18 +1,18 @@
 # D1S1_Ev_Interdiciplinar
 
-1. Nombre Proyecto: Evaluación Transdisciplinar
+1. **Nombre Proyecto: **  Evaluación Transdisciplinar
                     INFO 1120 - FIS 1102
                     
 2. Descripción: Archivos del grupo D1-S1 de la Evaluacion Interdiciplinar del curso de Fisica
 Este proyecto crea un programa que simula líneas rectas aceleradas. Verifique el programa, verifique la operación y compare los resultados con la fórmula conocida. En resumen, este proyecto pudo aprender habilidades técnicas y de análisis simulando fenómenos físicos a través de la programación.
 
 
-4. Evento físico a simular: Movimiento rectilineo uniforme acelerado 
+-4. Evento físico a simular: Movimiento rectilineo uniforme acelerado 
 
 
-a. Breve historia asociada (origen): Galileo Galileo, un famoso científico italiano del siglo XVII, jugó un papel fundamental en el descubrimiento y el estudio del movimiento informe acelerado . Sus experimentos y observaciones revolucionaron nuestra comprensión del movimiento y sentaron las bases de la física moderna.
+  a. Breve historia asociada (origen): Galileo Galileo, un famoso científico italiano del siglo XVII, jugó un papel fundamental en      el descubrimiento y el estudio del movimiento informe acelerado . Sus experimentos y observaciones revolucionaron nuestra          comprensión del movimiento y sentaron las bases de la física moderna.
 
-Durante siglos, la comprensión del movimiento acelerado uniformemente se ha mejorado y ampliado gracias a los logros científicos y tecnológicos. Estas leyes, basadas en la apertura de Galilea, se han convertido en principios fundamentales para comprender y predecir el comportamiento de los objetos en movimiento.
+   Durante siglos, la comprensión del movimiento acelerado uniformemente se ha mejorado y ampliado gracias a los logros              científicos y tecnológicos. Estas leyes, basadas en la apertura de Galilea, se han convertido en principios fundamentales          para comprender y predecir el comportamiento de los objetos en movimiento.
 
 El estudio del movimiento acelerado uniformemente tuvo un impacto significativo en numerosas áreas de física y tecnología.
 
