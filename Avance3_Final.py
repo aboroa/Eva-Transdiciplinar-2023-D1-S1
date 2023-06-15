@@ -14,20 +14,20 @@ def calcular_velocidad_final():
     time = float(entry_tiempo.get())
     time_step = 0.1
 
-    # Definir colores
+    # Define colores
     BLACK = (0, 0, 0)
     WHITE = (255, 255, 255)
 
-    # Definir la pantalla
+    # Define la pantalla
     size = (1200, 200)
     screen = pygame.display.set_mode(size)
     pygame.display.set_caption("Movimiento Rectilíneo Uniforme Acelerado")
 
-    # Definir variables
+    # Define variables
     x = 0
     y = 0
 
-    # Definir reloj
+    # Define reloj
     clock = pygame.time.Clock()
 
     # Listas para almacenar los datos de tiempo y velocidad
@@ -40,50 +40,50 @@ def calcular_velocidad_final():
             if event.type == pygame.QUIT:
                 sys.exit()
 
-        # Actualizar la velocidad y la posición
+        # Actualiza la velocidad y la posición
         velocity = initial_velocity + acceleration * time
         displacement = initial_velocity * time + 0.5 * acceleration * time ** 2
         x = int(displacement)
 
-        # Actualizar el tiempo
+        # Actualiza el tiempo
         time += time_step
 
-        # Dibujar la pantalla
+        # Dibuja la pantalla
         screen.fill(WHITE)
         pygame.draw.rect(screen, BLACK, [x, y, 50, 50])
 
-        # Actualizar la pantalla
+        # Actualiza la pantalla
         pygame.display.flip()
 
-        # Actualizar el resultado en la etiqueta
+        # Actualiza el resultado en la etiqueta
         mensaje_velocidad_final = "= La velocidad es de {:.2f} m/s".format(velocity)
         label_velocidad_final.configure(text=mensaje_velocidad_final)
 
-        # Actualizar el ejemplo del movimiento rectilíneo uniforme
+        # Actualiza el ejemplo del movimiento rectilíneo uniforme
         ejemplo_texto = "Ejemplo: La posición es {} m".format(x)
         label_ejemplo.configure(text=ejemplo_texto)
 
-        # Agregar los datos de tiempo y velocidad a las listas
+        # Agrega los datos de tiempo y velocidad a las listas
         tiempo_datos.append(time)
         velocidad_datos.append(velocity)
 
-        # Esperar 60 milisegundos
+        # Espera 60 milisegundos
         clock.tick(60)
 
-        # Crear el gráfico de velocidad contra tiempo
+        # Crea el gráfico de velocidad contra tiempo
         fig = Figure(figsize=(4, 3), dpi=100)
         fig.add_subplot(111).plot(tiempo_datos, velocidad_datos)
         canvas = FigureCanvas(fig)
         canvas.draw()
 
-        # Convertir el gráfico a una imagen tkinter compatible
+        # Convierte el gráfico a una imagen tkinter compatible
         image = ImageTk.PhotoImage(Image.frombytes('RGB', canvas.get_width_height(), canvas.tostring_rgb()))
 
-        # Mostrar la imagen en un label
+        # Muestra la imagen en un label
         graph_label.configure(image=image)
         graph_label.image = image
 
-        # Ejecutar el bucle principal de la ventana
+        # Ejecuta el bucle principal de la ventana
         window.update()
 
 def cerrar_ventana(event):
@@ -95,7 +95,7 @@ window.title("Cálculo de Velocidad")
 window.geometry("700x400")
 window.configure(bg="#CCCCCC")
 
-# Etiquetas y campos de entrada para el cálculo de velocidad final
+# Etiqueta y campos de entrada para el cálculo de velocidad final
 label_velocidad_inicial = tk.Label(window, text="Velocidad Inicial (m/s):", bg="#CCCCCC")
 label_velocidad_inicial.place(x=10, y=20)
 entry_velocidad_inicial = tk.Entry(window, text="", fg="black", font=("Arial", 9, "bold"))
