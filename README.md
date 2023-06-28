@@ -119,8 +119,9 @@ Es importante tener en cuenta que estas instrucciones pueden variar según la ve
 d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno físico
     desarrollado.
     
-   En el [enlace](https://youtu.be/m7y-Ere5bY) Explicacion del MURA
+   En el [enlace](https://youtu.be/m7y-Ere5bYY) Explicacion del MURA
    En el [enlace](https://youtu.be/JHa95746cJE) Explicacion del codigo
+   En el [enlace]() Explicacion del uso del Git
     
 ## 5. Conclusiones
 En conclusión, el movimiento rectilíneo uniformemente acelerado (MRUA) es un tipo de movimiento en el que un objeto se mueve en línea recta a una velocidad que cambia constantemente debido a una aceleración constante. Este tipo de movimiento se puede observar en muchos fenómenos naturales, como la caída libre de los objetos o el movimiento de los cuerpos en una pendiente. 
