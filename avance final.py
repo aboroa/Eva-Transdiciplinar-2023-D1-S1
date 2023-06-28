@@ -7,8 +7,7 @@ import matplotlib.pyplot as plt                                     # Importa la
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas  # Importa FigureCanvas de matplotlib para renderizar figuras en tkinter
 from matplotlib.figure import Figure                                # Importa Figure de matplotlib para crear figuras
 from PIL import ImageTk, Image                                       # Importa ImageTk e Image de PIL para operaciones con imágenes
-import webbrowser                                                   # Importa el módulo webbrowser para abrir páginas web
-pygame.init()                                          # Inicializa la biblioteca pygame
+pygame.init()                                                   # Inicializa la biblioteca pygame
 
 
 def calcular_velocidad_final():                                      # Define una función para calcular la velocidad final
