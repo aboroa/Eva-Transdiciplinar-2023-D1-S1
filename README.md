@@ -115,12 +115,17 @@ Es importante tener en cuenta que estas instrucciones pueden variar según la ve
 **c. Guía de uso (Hacer uso de imágenes o un video tutorial para su uso)**
   
  En el [enlace](https://youtu.be/21EGmrJNaHk) podemos observar un video con el uso de la simulacion creada.
+ 
+ Enlace para instalacion de git en linux de  [aqui](https://youtu.be/56iT6aIogmY) .
+
   
 d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno físico
     desarrollado.
     
    En el [enlace](https://youtu.be/m7y-Ere5bYY) Explicacion del MURA
+   
    En el [enlace](https://youtu.be/JHa95746cJE) Explicacion del codigo
+   
    En el [enlace](https://www.youtube.com/watch?v=mLl80Smq5pU) Explicacion del uso del Git
     
 ## 5. Conclusiones
