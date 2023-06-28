@@ -26,17 +26,30 @@ Por lo tanto, el descubrimiento de Galileo Galileo en un movimiento acelerado un
   
   $x=x_0+v_0\cdot (t-t_0) +\cfrac{1}{2}\cdot a \cdot (t-t_0)^2$
   
- x_0\
- x :  es la posición del cuerpo que sigue un movimiento rectilíneo uniformemente acelerado.
-x_0 : es la posición inicial del cuerpo.
-v_0 : es la velocidad inicial del cuerpo.
-t : es el instante de tiempo en el que se calcula la posición del cuerpo
+  $x$ es la posición final del objeto 
+
+  $x_0$ es la posición inicial del objeto
+  
+  $v_0$ es la velocidad inicial del objeto
+  
+  $t$ es el tiempo transcurrido
+  
+  $a$ es la aceleración constante del objeto
+
+
+Además, existen otras fórmulas que se pueden derivar a partir de la fórmula general del MRUA:
+
+Velocidad final: $v=v0+atv=v0​+at$
+
+Velocidad media: $vˉ=v0+v2vˉ=2v0​+v​$
+
+Desplazamiento: $d=vˉt=v0+v2td=vˉt=2v0​+v​t$
 
 
 **c. Como se resuelve:**
 Verificamos cuidadosamente la declaración en cuestión y determinamos el valor que se proporcionará.
 
-Reemplazamoa los valores móviles acelerados iguales. Usamos la ecuación d = v0 * t +(1/2) * a * t^2 para reemplazar el valor conocido de cada variable.
+Reemplazamoa los valores móviles acelerados iguales. Usamos la ecuación  $d = v0 * t +(1/2) * a * t^2$ para reemplazar el valor conocido de cada variable.
 
 Obtemos el valor de la variable desconocida. Cuando la ecuación se simplifica, se puede obtener una ecuación para asociar variables desconocidas al valor conocido. Resuelvemos la ecuación, borramos las variables que estamos buscando y obtenemos los números.
 
@@ -72,7 +85,7 @@ Estos son solo algunos ejemplos del amplio espectro de aplicación propiedad de 
   
 ## 4. Programación
 **a. Descripción de las herramientas utilizadas**:
-para  este codigo se utilizo las herramientas de tkinter , esta nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario . en conjunto con esta usamos matlolib esta nos ayuda a integrar un grafio que nos muestre datos ingresados y utilzados en la aplicacion  
+Para el desarrollo de este codigo, se utilizo las herramientas ide de python, importando las librerias: tkinter, matplotlib,  esta nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario . en conjunto con esta usamos matlolib esta nos ayuda a integrar un grafio que nos muestre datos ingresados y utilzados en la aplicacion  
   
 **b. Guía de instalación**
 
