@@ -85,7 +85,11 @@ Estos son solo algunos ejemplos del amplio espectro de aplicación propiedad de 
   
 ## 4. Programación
 **a. Descripción de las herramientas utilizadas**:
-Para el desarrollo de este codigo, se utilizo las herramientas ide de python, importando las librerias: tkinter, matplotlib,  esta nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario . en conjunto con esta usamos matlolib esta nos ayuda a integrar un grafio que nos muestre datos ingresados y utilzados en la aplicacion  
+Para el desarrollo de este codigo, se utilizo las herramientas ide de python, importando las librerias: Tkinter, Matplotlib, Pil y Pygame.
+- Tkinter: Esta libreria de python nos ayuda a crearla interface para que podamos visualizar una pantalla de usuario. 
+- Matplotlib: Esta  libreria permite integrar un grafico que nos muestre datos ingresados y utilzados en la aplicacion.
+- Pil: Nos permite el el manejo y procesamiento de imagenes.
+- Pygame: Nos permite simular en movimiento asignado, haciendo visualmente comprensible el el movimiento fisico.
   
 **b. Guía de instalación**
 
