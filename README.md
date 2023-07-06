@@ -2,7 +2,7 @@
 
 ## 1. **Nombre Proyecto:**  
 Evaluación Transdisciplinar
-INFO 1120 - FIS 1102
+INFO1120 - FIS1102
                     
 ## 2. Descripción
 Archivos del grupo D1-S1 de la Evaluacion Interdiciplinar del curso de Fisica
