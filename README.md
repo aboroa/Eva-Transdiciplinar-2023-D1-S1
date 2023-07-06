@@ -122,7 +122,7 @@ Es importante tener en cuenta que estas instrucciones pueden variar según la ve
 d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno físico
     desarrollado.
     
-   En el [enlace](https://youtu.be/m7y-Ere5bYY) Explicacion del MURA
+   En el [enlace](https://youtu.be/A1t9NPAvyE0) Explicacion del MURA
    
    En el [enlace](https://youtu.be/JHa95746cJE) Explicacion del codigo
    
